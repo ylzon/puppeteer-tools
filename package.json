@@ -1,0 +1,23 @@
+{
+  "name": "puppeteer-crack-code",
+  "version": "1.0.0",
+  "description": "利用puppeteer破解图片验证码和滑动验证码",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mgss/puppeteer-crack-code.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mgss/puppeteer-crack-code/issues"
+  },
+  "homepage": "https://github.com/mgss/puppeteer-crack-code#readme",
+  "dependencies": {
+    "puppeteer": "^1.8.0"
+  }
+}
