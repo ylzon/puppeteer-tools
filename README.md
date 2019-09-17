@@ -1,5 +1,5 @@
 # puppeteer-crack-code
-利用puppeteer写的一堆小工具，如批量下载图片，批量导出CmdMarkdwon文件
+用puppeteer写的一堆小工具，如批量下载图片，批量导出CmdMarkdwon文件等
 
 ## DEMO1 - 图片下载器
 
@@ -12,4 +12,4 @@
 * 为了减少侵犯作者利益，ids怎么获取，cookie怎么获取我都没写，需要的自己研究
 * 因为只用一次，所以没有考虑什么多线程多页面获取，速度很慢，代码也贼垃圾，而且有BUG
 
-## 待更新
+## DEMO3 - 待更新
